@@ -21,3 +21,4 @@ Neste bimestre eu deixei de entregar algumas atividades dentro do prazo. Também
 - Estudar um pouco toda semana para não acumular conteúdo.
 
 
+
