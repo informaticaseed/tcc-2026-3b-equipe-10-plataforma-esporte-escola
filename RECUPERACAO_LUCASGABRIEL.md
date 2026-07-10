@@ -19,3 +19,4 @@ Neste bimestre eu deixei de entregar algumas atividades dentro do prazo. Também
 - Entregar todas as atividades antes do prazo.
 - Participar mais das aulas e tirar dúvidas quando necessário.
 - Estudar um pouco toda semana para não acumular conteúdo.
+
