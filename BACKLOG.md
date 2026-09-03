@@ -1,42 +1,46 @@
-# Backlog do MVP — [Nome do Grupo]
+Backlog do MVP — Equipe 10
 
-> Este arquivo é o resumo fixo do projeto.
-> O backlog semanal vivo fica nas **Issues** do repositório.
-> Acesse: github.com/informaticaseed/[repo]/issues
-
----
-
-## 🎯 Objetivo do MVP
-
-(Descreva em 2-3 frases o que o MVP precisa entregar)
+«Este arquivo é o resumo fixo do projeto.
+O backlog semanal vivo fica nas Issues do repositório.»
 
 ---
 
-## ✅ Funcionalidades do MVP
+🎯 Objetivo do MVP
 
-| # | Funcionalidade | Prioridade | Status |
-|---|---------------|-----------|--------|
-| 1 | (escreva aqui) | Alta | ⏳ A fazer |
-| 2 | (escreva aqui) | Alta | ⏳ A fazer |
-| 3 | (escreva aqui) | Alta | ⏳ A fazer |
-| 4 | (escreva aqui) | Média | ⏳ A fazer |
-| 5 | (escreva aqui) | Média | ⏳ A fazer |
-| 6 | (escreva aqui) | Baixa | ⏳ A fazer |
-
-> Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
+Desenvolver um site que facilite o acesso dos alunos às informações sobre esportes disponíveis nas escolas. O sistema permitirá consultar escolas, modalidades esportivas, horários, locais e outras informações importantes sobre as atividades esportivas.
 
 ---
 
-## 🚫 Fora do escopo (não entra no MVP)
+✅ Funcionalidades do MVP
 
-- (o que vocês decidiram não fazer)
-- (o que ficou para depois)
+#| Funcionalidade| Prioridade| Status
+1| Cadastrar e consultar escolas| Alta| ⏳ A fazer
+2| Cadastrar e consultar modalidades esportivas| Alta| ⏳ A fazer
+3| Consultar horários e locais das atividades esportivas| Alta| ⏳ A fazer
+4| Pesquisar atividades por esporte ou escola| Média| ⏳ A fazer
+5| Exibir informações de contato e endereço das escolas| Média| ⏳ A fazer
+6| Criar uma interface simples e responsiva para o usuário| Baixa| ⏳ A fazer
+
+«Atualize o Status conforme avança:
+⏳ A fazer → 🔄 Fazendo → ✅ Feito»
 
 ---
 
-## 🔗 Links úteis
+🚫 Fora do escopo (não entra no MVP)
 
-- **Issues (backlog semanal):** [link das issues]
-- **Pull Requests:** [link dos PRs]
-- **Painel do professor:** [link do GitHub Project]
-- **Diagrama de arquitetura:** docs/arquitetura.md
+- Sistema de mensagens entre alunos e escolas.
+- Inscrição online em campeonatos ou treinos.
+- Sistema de pagamentos.
+- Aplicativo para celular.
+- Sistema avançado de login e autenticação.
+- Notificações em tempo real.
+- Integração com redes sociais.
+
+---
+
+🔗 Links úteis
+
+- Issues (backlog semanal): github.com/informaticaseed/[repo]/issues
+- Pull Requests: github.com/informaticaseed/[repo]/pulls
+- Painel do professor: [link do GitHub Project]
+- Diagrama de arquitetura: "docs/arquitetura.md"
