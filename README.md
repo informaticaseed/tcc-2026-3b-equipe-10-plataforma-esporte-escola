@@ -7,11 +7,11 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
+| (Lucas Gabriel) | @rzngang | 3B |
 | (nome 2) | @username | 3A |
 | (nome 3) | @username | 3A |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** (Aplicação de site de suporte ao acesso a informação do esporte nas escolas)
 **Tecnologia:** Python + Flask + SQLite
 
 ---
@@ -19,8 +19,8 @@
 ## 🎯 O que o sistema faz
 
 (Descreva em 2-3 frases o problema que o sistema resolve e para quem)
-
----
+o programa ajuda a facilitar o acesso a informações envolvendo esporte nas escolas, com chat bot, calendário e etc
+---,
 
 ## 🔄 Como o grupo trabalha toda semana
 
