@@ -3,7 +3,7 @@ Backlog do MVP — Equipe 10
 «Este arquivo é o resumo fixo do projeto.
 O backlog semanal vivo fica nas Issues do repositório.»
 
----
+--
 
 🎯 Objetivo do MVP
 
