@@ -7,3 +7,4 @@ Separação de camadas significa organizar o código em partes diferentes, cada 
 4. O que você deixou de fazer neste bimestre e por quê?
 Neste bimestre, deixei algumas atividades para fazer depois e acabei não conseguindo entregar tudo no prazo. Também poderia ter me organizado melhor para acompanhar as tarefas e os conteúdos das aulas. Em alguns momentos, deixei para fazer as atividades muito perto da data de entrega. Isso aconteceu principalmente por falta de organização e por não ter dado a devida atenção às atividades desde o começo do bimestre.
 
+
