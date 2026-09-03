@@ -44,3 +44,4 @@ Desenvolver um site que facilite o acesso dos alunos às informações sobre esp
 - Pull Requests: github.com/informaticaseed/[repo]/pulls
 - Painel do professor: [link do GitHub Project]
 - Diagrama de arquitetura: "docs/arquitetura.md"
+
